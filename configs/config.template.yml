@@ -1,0 +1,15 @@
+Translate:
+  DefaultTranslator: baidu # google baidu
+  Translator:
+    - baidu
+    - google
+    - youdao
+  AppKey:
+    - baiduAppID
+    - googleAppID
+    - youdaoAppID
+  AppSecret:
+    - baiduSecret
+    - googleSecret
+    - youdaoSecret
+

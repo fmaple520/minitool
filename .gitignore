@@ -1,0 +1,4 @@
+.idea/
+vendor/
+configs/config.yml
+*.exe
